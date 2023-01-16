@@ -53,7 +53,6 @@ html {
   margin-top: 10em;
 }
 .cardimage{
-  margin: 10px;
   border-radius: 15px 15px 15px 15px;
 }
 
@@ -267,14 +266,14 @@ html {
 	clip: rect(auto, auto, auto, auto);
 }
  .pie-wrapper.progress-45 .pie .half-circle {
-	background: linear-gradient(#191919, #191919) padding-box,
+	background: linear-gradient(#101010, #101010) padding-box,
 	radial-gradient( #ff6600,#ff6600 ); 
 	border-radius: 50em;
 	border: 15px solid transparent;
 
 }
  .pie-wrapper.progress-45 .pie .left-side {
-	transform: rotate(330deg);
+	transform: rotate(290deg);
 }
  .pie-wrapper.progress-45 .pie .right-side {
 	transform: rotate(180deg);
@@ -291,7 +290,7 @@ html {
 	 border-color: #2965f1;
 }
  .pie-wrapper.progress-75 .pie .left-side {
-	 transform: rotate(300deg);
+	 transform: rotate(270deg);
 }
  .pie-wrapper.progress-75 .pie .right-side {
 	 transform: rotate(180deg);
@@ -310,7 +309,7 @@ html {
 	 border-color: #F0DB4F;
 }
  .pie-wrapper.progress-95 .pie .left-side {
-	 transform: rotate(240deg);
+	 transform: rotate(256deg);
 }
  .pie-wrapper.progress-95 .pie .right-side {
 	 transform: rotate(180deg);
@@ -344,7 +343,7 @@ html {
 	border-color: #484C89 ;
 }
 .pie-wrapper.progress-70 .pie .left-side {
-	transform: rotate(270deg);
+	transform: rotate(180deg);
 }
 .pie-wrapper.progress-70 .pie .right-side {
 	transform: rotate(180deg);
@@ -362,7 +361,7 @@ html {
 	border-color: #e7a61a ;
 }
 .pie-wrapper.progress-sql .pie .left-side {
-	transform: rotate(240deg);
+	transform: rotate(180deg);
 }
 .pie-wrapper.progress-sql .pie .right-side {
 	transform: rotate(180deg);
@@ -379,7 +378,7 @@ html {
 	border-color: #F1502F ;
 }
 .pie-wrapper.progress-git .pie .left-side {
-	transform: rotate(180deg);
+	transform: rotate(220deg);
 }
 .pie-wrapper.progress-git .pie .right-side {
 	transform: rotate(180deg);
@@ -396,7 +395,7 @@ html {
 	border-color: #563d7c ;
 }
 .pie-wrapper.progress-boot .pie .left-side {
-	transform: rotate(300deg);
+	transform: rotate(2700deg);
 }
 .pie-wrapper.progress-boot .pie .right-side {
 	transform: rotate(180deg);
@@ -547,6 +546,24 @@ main-timeline{ font-family: 'Poppins', sans-serif; }
         top: 105px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
